@@ -139,13 +139,6 @@ MIT License © 2026 Raised
 
 ---
 
-## 🌐 Links
-
-* Website: https://your-project.com
-* Twitter: https://x.com/yourproject
-
----
-
 ## ⭐ Support
 
 If you like this project, give it a ⭐ and help it grow!
