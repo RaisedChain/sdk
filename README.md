@@ -3,6 +3,8 @@
 **Smaller moves, bigger results.**
 Raised gives you the edge without the excessive risk.
 
+Contract Address Pumpfun : 4k5dFiWv5v1fUnmPfFmhL7smqANx5UN4KLcv9kHUpump
+
 ---
 
 ## 📌 Overview
